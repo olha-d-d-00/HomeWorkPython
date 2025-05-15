@@ -1,0 +1,14 @@
+Index: Lesson_1.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>print(\"Hello\\nWorld\\\\!\", end=\" - \")\r\nprint()\r\nprint(\"testtest\", \"yyyy\", sep=\" - \")\r\nprint(\"100tests!\")
+===================================================================
+diff --git a/Lesson_1.py b/Lesson_1.py
+--- a/Lesson_1.py	(revision 9c1f4f6a5265c275b2fe79b28840a9b01bc03001)
++++ b/Lesson_1.py	(date 1747172777890)
+@@ -1,4 +1,0 @@
+-print("Hello\nWorld\\!", end=" - ")
+-print()
+-print("testtest", "yyyy", sep=" - ")
+-print("100tests!")
+\ No newline at end of file

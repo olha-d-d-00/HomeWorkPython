@@ -1,0 +1,29 @@
+Index: HomeWork/HomeWork_2.2.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/HomeWork/HomeWork_2.2.py b/HomeWork/HomeWork_2.2.py
+new file mode 100644
+--- /dev/null	(date 1747173648060)
++++ b/HomeWork/HomeWork_2.2.py	(date 1747173648060)
+@@ -0,0 +1,2 @@
++user_number = input("Введите 5-ти значное число: ")[::-1]
++print(user_number)
+\ No newline at end of file
+Index: HomeWork/HomeWork_2.1.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/HomeWork/HomeWork_2.1.py b/HomeWork/HomeWork_2.1.py
+new file mode 100644
+--- /dev/null	(date 1747174265109)
++++ b/HomeWork/HomeWork_2.1.py	(date 1747174265109)
+@@ -0,0 +1,6 @@
++user_number = int(input("Введите 4-х значное число: "))
++
++print(user_number // 1000) # тут первое
++print(user_number // 100 % 10) # второе
++print(user_number // 10 % 10) # 3
++print(user_number % 10) # тут последнее
