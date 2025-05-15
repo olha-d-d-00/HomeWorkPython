@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="416b8282-0541-41e6-95f1-071bc317e378" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HomeWork/HomeWork_2.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork/HomeWork_2.2.py" afterDir="false" />
+    <list default="true" id="416b8282-0541-41e6-95f1-071bc317e378" name="Changes" comment="3 Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +41,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "olha-d-d-00"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/olha-d-d-00/HomeWorkPython.git",
+    "accountId": "84163a31-8781-4023-b4c7-4b0154a407e4"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/HomeWork/HomeWork_2.2.py" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -56,22 +68,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.HomeWork_2.1.executor": "Run",
-    "Python.HomeWork_2.2.executor": "Run",
-    "Python.Lesson_1.executor": "Run",
-    "Python.lesson_3.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Olha/Desktop/PythonProject"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.HomeWork_2.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HomeWork_2.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Olha/Desktop/PythonProject&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": []
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: []
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Olha\Desktop\PythonProject\Teacher's Lessons" />
@@ -122,7 +134,31 @@
       <option name="project" value="LOCAL" />
       <updated>1747170397230</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1747348438991</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1747348438991</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Second Commit">
+      <option name="closed" value="true" />
+      <created>1747349012416</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1747349012416</updated>
+    </task>
+    <task id="LOCAL-00006" summary="3 Commit">
+      <option name="closed" value="true" />
+      <created>1747349082220</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1747349082220</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,17 +191,31 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="First Commit" />
     <MESSAGE value="Added Prints" />
     <MESSAGE value="Homework lesson 2" />
     <MESSAGE value="Добавила решение дз 2.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавила решение дз 2.1" />
+    <MESSAGE value="First Commit" />
+    <MESSAGE value="Second Commit" />
+    <MESSAGE value="3 Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 Commit" />
   </component>
 </project>
