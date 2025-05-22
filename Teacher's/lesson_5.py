@@ -9,7 +9,7 @@
 # print(message[len(message) - 1])
 # print(message[-1])
 #
-# ###
+# ####
 # # # string - immutable тип даних, рядок змінити не можна
 # name = "Petya"
 # print(name)
