@@ -36,7 +36,13 @@ while True:
 
             print(result)
 
-    question_for_user = input("Continue outputting ASCII letters? Enter Yes/No, or y/n: ").strip().lower()
+    while True:
+        question_for_user = input("Continue outputting ASCII letters? Enter Yes/No, or y/n: ").strip().lower()
 
-    if question_for_user in [NEGATIVE_ANSWER.lower(), NEGATIVE_ANSWER1.lower()]:
-        break
+        if question_for_user in [NEGATIVE_ANSWER.lower(), NEGATIVE_ANSWER1.lower()]:
+            exit()
+        elif question_for_user in ["yes", "y", "n", "no"]:
+            break
+        else:
+            print("Incorrect input. Enter Yes/No, or y/n")
+
