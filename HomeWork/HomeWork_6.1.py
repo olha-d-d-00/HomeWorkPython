@@ -31,7 +31,7 @@ while True:
             if start_value <= end_value:
                 result = letters_ascii[start_value:end_value + 1]
             else:
-                result = string.ascii_letters[end_value:start_value + 1][::-1]
+                result = letters_ascii[end_value:start_value + 1][::-1]
 
 
             print(result)
