@@ -27,7 +27,7 @@
 #     if exponent <= 1:
 #         return base
 #
-#     return base * my_pow(base, exponent-1)
+#     return base * my_pow(base, exponent - 1)
 #
 #
 # result = my_pow(2, 3)
@@ -48,8 +48,8 @@
 #     return fib(number - 1) + fib(number - 2)
 #
 #
-# print(fib(3))
-
+# # print(fib(3))
+#
 # for i in range(10):
 #     print(fib(i), end=" ")
 
@@ -65,21 +65,21 @@
 
 
 # # Приклад: Застосувати функцію до парних чисел
-# numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-# result = map(lambda x: x**2, filter(lambda x: x % 2 == 0, numbers))
-# final_result = list(result)
-# print(final_result)  # Вивід: [4, 16, 36, 64, 100]
+numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+result = map(lambda x: x**2, filter(lambda x: x % 2 == 0, numbers))
+final_result = list(result)
+print(final_result)  # Вивід: [4, 16, 36, 64, 100]
 
 
 # Приклад: Застосування квадратного кореня до кожного елемента списку
-# def my_sqrl(number):
+# def my_pow(number):
 #     return number**2
-#
-#
+# #
+# #
 # numbers = [1, 2, 3, 4, 5]
-# # squared_root = map(lambda x: x**2, numbers)
-# squared_root = map(my_sqrl, numbers)
-# result = list(squared_root)
+# # pow_root = map(lambda x: x**2, numbers)
+# pow_root = map(my_pow, numbers)
+# result = list(pow_root)
 # print(result)  # Вивід: [1.0, 1.414, 1.732, 2.0, 2.236]
 
 ####

@@ -93,7 +93,7 @@
 # import time
 #
 #
-# current_working_status = False
+# current_working_status = True
 # current_seconds = 1
 #
 #
@@ -158,12 +158,12 @@
 
 
 ##########
-# add = lambda num1: lambda num2: num1 + num2
-#
-# configured_add = add(3)
-#
-# for i in range(1, 10):
-#     print(configured_add(i))
+add = lambda num1: lambda num2: num1 * num2
+
+configured_add = add(3)
+
+for i in range(1, 10):
+    print(configured_add(i))
 
 #######################
 # Генераторні функції

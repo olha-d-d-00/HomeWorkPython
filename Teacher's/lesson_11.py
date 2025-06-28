@@ -152,14 +152,14 @@ def binary_search(nums, search_item) -> int:
     return -1  # -1 означає, що значення не знайдено
 
 
-# my_list = generate_random_list(5)
-# print(my_list)
+my_list = generate_random_list(5)
+print(my_list)
 # # bubble_sort(my_list)
-# # selection_sort(my_list)
-# # insertion_sort(my_list)
+# selection_sort(my_list)
+insertion_sort(my_list)
 # # my_list = merge_sort(my_list)
 # quick_sort(my_list)
-# print(my_list)
+print(my_list)
 #
 # numbers = [1, 4, 10, 5, 2, 10, 4, 10, 3]
 # numbers.sort()
